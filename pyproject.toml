@@ -1,0 +1,4 @@
+[project]
+name = "workshop"
+version = "0.1.0"
+description = "OmniOpenCon workshop sample"
